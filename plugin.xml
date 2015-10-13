@@ -6,7 +6,7 @@
 	id="cordova-plugin-remove-storage-permissions"
 	version="1.0.0">
 
-	<name>Remove Storage Permssions</name>
+	<name>RemoveStoragePermissions</name>
 	<description>
 		Remove READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE from AndroidManifest.xml.
 		See https://software.intel.com/en-us/xdk/faqs/general Q14.
